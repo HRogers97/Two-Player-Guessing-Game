@@ -8,7 +8,7 @@
 #              Two clients will connect to the server and take turns trying to 
 #              guess a random number.
 #
-# Usage:       python server.py port_number
+# Usage:       python client.py port_number
 ####################################################################################################
 import socket
 import sys
